@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://pclinuxoscz.maniu.eu
+https://linux.maniu.eu
 
 
 <!--
