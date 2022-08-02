@@ -1,6 +1,7 @@
 ## Hi there 👋
-https://linux.maniu.eu
+This is semi-personal public corner with random #linux related things
 
+https://linux.maniu.eu
 
 <!--
 
