@@ -1,7 +1,6 @@
 ## Hi there 👋
-This is semi-personal public corner with random #linux related things
+This is semi-personal public corner with random #oss related things
 
-https://linux.maniu.eu
 
 <!--
 
